@@ -10,7 +10,7 @@
   <img align="center" alt="errexis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="errexis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="errexis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="errexis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/248516756463681536/a_648b96602ea063fbb5413b65a4ca75ee.gif?size=2048">
+  <img align="right" alt="errexis-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/9e/86/ac/9e86ac95218707bedeae3ac54b9f4bc8.jpg">
 </div>
 
 ##
