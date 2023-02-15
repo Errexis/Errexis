@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Clean Code, Docker and agile methodology**
 
-- 👯 I’m looking to collaborate on [https://github.com/ForumLabs/front-end-forum-site](https://github.com/ForumLabs/front-end-forum-site)
+- 👯 I’m looking to collaborate on [Front End Forum](https://github.com/ForumLabs/front-end-forum-site)
 
 - 💬 Ask me about **React, Typescript, Javascript, NodeJS, Python**
 
